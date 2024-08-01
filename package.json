@@ -1,6 +1,6 @@
 {
-  "name": "Scrim-s0epk1o4oi",
-  "description": "https://v2.scrimba.com/javascript-deep-dive-c0a/~030",
+  "name": "google-keep-clone",
+  "description": "google-keep-clone",
   "scripts": {
     "start": "vite",
     "dev": "vite",
